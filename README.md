@@ -9,4 +9,8 @@ Objectives
     - https://en.wikipedia.org/wiki/Markdown
     - Origianl Creator - https://daringfireball.net/projects/markdown/syntax
 - Learn git - commands and flow
+  - Resources
+    - [how] - http://think-like-a-git.net/
+    - [why] - Read till Branches and Branch names - http://tom.preston-werner.com/2009/05/19/the-git-parable.html
+    - 
 - Learn github - issues, milestones and pull requests
